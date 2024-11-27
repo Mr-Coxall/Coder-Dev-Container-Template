@@ -1,6 +1,3 @@
-# Coder-Dev-Container-Template
-This is a template for Coder, to make a workspace that resembles exactly how GitHub Codespace works.
-
 ---
 display_name: Docker Containers
 description: Provision Docker containers as Coder workspaces
@@ -9,6 +6,9 @@ maintainer_github: coder
 verified: true
 tags: [docker, container]
 ---
+
+# Coder-Dev-Container-Template
+This is a template for Coder, to make a workspace that resembles exactly how GitHub Codespace works.
 
 Provision Docker containers as [Coder workspaces](https://coder.com/docs/workspaces) with this example template.
 
